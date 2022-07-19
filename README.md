@@ -71,10 +71,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Rando Apps Apps I Like
-
-![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
-</p>
 </div>
 
 ---
@@ -86,13 +82,14 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</div>     
----
+</div>  
 
 </div align="center">
 
-#Medium Posts
-###I also maintain a blog - you can find my articles on my Medium Page
+---
+
+# Medium Posts
+### I also maintain a blog - you can find my articles on my Medium Page
 
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
@@ -102,6 +99,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 </div>
+
 ---
 
 <div align="center">
