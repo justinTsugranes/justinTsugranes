@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-<h2 align="center">About Me</h2>
+### About Me
 
 <p> I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.</p>
 <p> I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.</p>
@@ -37,7 +37,7 @@
 
 ---
 <div align="center">
-<h2 align="center">Tools of Trade</h2>
+### Tools of Trade
 
 ### Languages
 
@@ -74,11 +74,9 @@
 
 ---
 
-<div align="center">
-### :fire: GitHub Stats 📊:
+### :fire: GitHub Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
 
 ---
 
