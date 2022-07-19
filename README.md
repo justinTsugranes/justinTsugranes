@@ -81,6 +81,14 @@ I also maintain a blog - you can find my articles on my Medium Page
 ---
 
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
+
+---
+
+<div style="display: flex; justify-content:space-between">
+  img src="instagram_posts/post_0/post.jpg width="30%" height="30% style="border-radius: 10%;"/>
+  img src="instagram_posts/post_1/post.jpg width="30%" height="30% style="border-radius: 10%;"/>
+  img src="instagram_posts/post_2/post.jpg width="30%" height="30% style="border-radius: 10%;"/>
+  </div>
   
 ---
 
