@@ -2,7 +2,12 @@
   <img src="https://github.com/justinTsugranes/justinTsugranes/blob/main/Justin.tsugranes.big.sur.background..jpg" width="100%"/>
 </div>
   
-h1>Justin Tsugranes</h1>
+<h1>Justin Tsugranes</h1>
+<h1 align="center">
+  Hi! I'm Justin.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to my GitHub!
+</h1>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/justintsugranes/">
@@ -11,6 +16,7 @@ h1>Justin Tsugranes</h1>
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
   <a href="https://twitter.com/justintsugranes">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+
  <p> <a href="https://stackoverflow.com/users/18146313/justintsugranes" target="_blank">
     <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=18146313" /></a> </p>
  </div>
@@ -19,12 +25,6 @@ h1>Justin Tsugranes</h1>
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
  <img src="https://img.shields.io/freecodecamp/points/jtsugranes" alt=""/>
   </div>
- 
-<h1 align="center">
-  Hi! I'm Justin.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to my GitHub!
-</h1>
 
 ---
 
