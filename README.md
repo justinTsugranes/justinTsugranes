@@ -2,19 +2,15 @@
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
   
-  <div id="badges" align="center">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/justintsugranes/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
   <a href="https://medium.com/justintsugranes/">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-    </a>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
   <a href="https://twitter.com/justintsugranes">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  <a href="https://stackoverflow.com/users/18146313/justintsugranes">
-    <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-    </a>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="https://stackoverflow.com/users/18146313/justintsugranes" target="_blank">
+    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=18146313" /></a> 
  </div>
  
  <div id="viewcount" align="center">
