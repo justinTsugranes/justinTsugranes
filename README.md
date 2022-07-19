@@ -84,14 +84,6 @@ I also maintain a blog - you can find my articles on my Medium Page
 
 ---
 
-<div style="display: flex; justify-content:space-between">
-  img src="instagram_posts/post_0/post.jpg width="30%" height="30% style="border-radius: 10%;"/>
-  img src="instagram_posts/post_1/post.jpg width="30%" height="30% style="border-radius: 10%;"/>
-  img src="instagram_posts/post_2/post.jpg width="30%" height="30% style="border-radius: 10%;"/>
-  </div>
-  
----
-
 ### I love coffee
 If you like what i do, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
