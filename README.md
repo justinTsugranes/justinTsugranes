@@ -81,3 +81,6 @@
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
+
+<h2>Latest Tweets</h2>
+<p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=mokkapps&amp;layout=wide" alt="github-readme-twitter"></a></p>
