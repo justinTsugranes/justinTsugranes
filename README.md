@@ -9,14 +9,14 @@
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/justintsugranes/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="https://medium.com/justintsugranes/">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" /></a>
   <a href="https://twitter.com/justintsugranes">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
+  <a href="https://instagram.com/justintsugranes">
+    <img src="https://img.shields.io/badge/instagram-pink?style=for-the-badge&logo=instagram&logoColor=pink" alt="Instagram Badge" /></a>
  </div>
- 
- [![LinkedIn Bade](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo-Linkedin&lgoColor=white)](https://linkedin.com/in/justintsugranes)
  
  <div id="viewcount" align="center">
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
