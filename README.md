@@ -22,7 +22,9 @@
   </div>
  
 <h1>
-  hi there, I'm Justin!
+  Hi! I'm Justin.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Welcome to my GitHub
 </h1>
 
 ---
