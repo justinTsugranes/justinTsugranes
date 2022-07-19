@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://github.com/justinTsugranes/justinTsugranes/blob/main/Justin.tsugranes.big.sur.background..jpg" width="100%"/>
+  <img src="https://media.giphy.com/media/3tL4lQZx0RNsbnIPKa/giphy.gif" width="100%"/>
 </div>
   
 <h1 align="center">
@@ -37,24 +38,29 @@
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
 ---
 
-### Technologies
+### Technology Stack
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="NPM" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" **alt="Visual Studio Code" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
 </div>
   
 ---
+
+## Operating System & Tools
+
+[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
 
 ### :fire: GitHub Stats 📊:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
