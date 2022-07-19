@@ -73,11 +73,10 @@ I also maintain a blog - you can find my articles on my Medium Page
   
 ---
 
-### Latest Tweets
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
   
 ---
 
 ### I love coffee
-<p>If you like what i do, maybe you would like to
-  <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
+If you like what i do, maybe you would like to
+<a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
