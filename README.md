@@ -64,6 +64,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
 </div>
 
+---
+
+### :fire: GitHub Stats 📊:
+
 #### Github Stats 📊
 
 [![Justin's github stats](https://github-readme-stats.vercel.app/api?username=justintsugranes)](https://github.com/anuraghazra/github-readme-stats)
