@@ -1,6 +1,8 @@
-<div id="header" align="center"><h1>Justin Tsugranes</h1>
+<div id="header" align="center">
   <img src="https://github.com/justinTsugranes/justinTsugranes/blob/main/Justin.tsugranes.big.sur.background..jpg" width="100%"/>
 </div>
+  
+h1>Justin Tsugranes</h1>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/justintsugranes/">
