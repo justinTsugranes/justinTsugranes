@@ -3,10 +3,7 @@
 </div>
   
 <div align="center">
- 
 # Hi, I'm Justin.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
 ## Welcome to my GitHub!
 </div>
   
@@ -74,18 +71,16 @@
 </div>
 ---
 
-<div align="center"
-     
+<div align="center"   
 ## :fire: GitHub Stats:
      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>  
 
-</div align="center">
-
 ---
+
+</div align="center">
 
 # Medium Posts
 ### I also maintain a blog - you can find my articles on my Medium Page
@@ -108,8 +103,6 @@
 ---
 
 <div align="center">
-  
 ### If you like what i do, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
-  
 </div>
