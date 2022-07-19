@@ -1,5 +1,5 @@
 <div id="header" align="center"><h1>Justin Tsugranes</h1>
-  <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
+  <img src="https://github.com/justinTsugranes/justinTsugranes/blob/main/Justin.tsugranes.big.sur.background..jpg" width="100%"/>
 </div>
   
 <div id="badges" align="center">
