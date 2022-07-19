@@ -3,9 +3,9 @@
 </div>
   
 <h1 align="center">
-  Hi! I'm Justin.
+  Hi, I'm Justin.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h1>Welcome to my GitHub!</h1>
+  <h2 align="center">Welcome to my GitHub!</h2>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/justintsugranes/">
