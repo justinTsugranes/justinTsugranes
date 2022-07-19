@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-### About Me
+### About Me:
 
 <p> I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.</p>
 <p> I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.</p>
