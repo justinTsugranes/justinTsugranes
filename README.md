@@ -4,7 +4,7 @@
   
 <div align="center">
   
-# Hi, I'm Justin. ## Welcome to my GitHub!
+# Hi, I'm Justin. Welcome to my GitHub!
   
 </div>
   
@@ -33,11 +33,12 @@
 <p> I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.</p>
 <p> I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.</p>
 <p> I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.</p>
-
 <p> I'm looking to work with teams on blockchain projects.</p>
+  
 </div>
 
 ---
+
 <div align="center">
   
 # Tools of The Trade
@@ -48,8 +49,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
----
-
 ### Technology Stack
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -59,8 +58,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="NPM" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
 </div>
-  
----
 
 ### Operating System & Tools
 
