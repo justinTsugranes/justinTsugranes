@@ -20,10 +20,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+
+### :man_technologist: About Me : 
 
 I'm a Junior Smart Contract Developer that is learning to code for EVM compatible chains. I'm a former guitaris for the US Army, a professional Jazz guitarist and recording artist.
 
 I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips. 
+
+<div align="center">
+  <img src="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu" width="600" height="300"/>
+</div>
+
 
 
 
