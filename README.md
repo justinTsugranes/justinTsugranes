@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
  </div>
  
- [instagram]: https://.instagram.com/justintsugranes
+ [![LinkedIn Bade](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo-Linkedin&lgoColor=white)](https://linkedin.com/in/justintsugranes)
  
  <div id="viewcount" align="center">
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
