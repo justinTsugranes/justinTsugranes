@@ -70,7 +70,7 @@
 
 ---
 
-### Medium Posts :
+<h2>Medium Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
@@ -82,4 +82,5 @@
 <h2>Latest Tweets</h2>
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
-if you like what i do, maybe you would like to <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+<p>If you like what i do, maybe you would like to <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
