@@ -3,8 +3,10 @@
 </div>
   
 <div align="center">
+  
 # Hi, I'm Justin.
 ## Welcome to my GitHub!
+  
 </div>
   
 <div id="badges" align="center">
@@ -39,7 +41,7 @@
 ---
 <div align="center">
   
-# Tools of Trade
+# Tools of The Trade
 
 ### Languages
 
