@@ -39,35 +39,6 @@
 - I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.
 
 
-### Work Experience
-In the overview below you will find my most recent work experience:
-
-[<img align="left" height="94px" width="94px" alt="blockchain" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/kpn.jpeg?raw=true"/>](https://www.kpn.com/)
-
-**Junior Smart Contract Developer** \
-[**FREELANCE**] • Contract \
-Languages & Technologies: `Solidity`, `Hardhat`, `ethers.js`, `ethereum`\
-<br/>
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/warpnet.png?raw=true"/>](https://warpnet.nl/)
-
-**Software Engineer (SWE) and Site Reliability Engineer (SRE)** \
-[**Warpnet**](https://warpnet.nl/) • Full-time \
-Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`, `Prometheus` \
-Featured Projects: [salt-lint](https://github.com/warpnet/salt-lint), [vscode-salt-lint](https://github.com/warpnet/vscode-salt-lint)
-<br/>
-
-[<img align="left" height="94px" width="94px" alt="Dienst Uitvoering Onderwijs (DUO)" src="https://github.com/roaldnefs/roaldnefs/blob/main/images/duo.jpeg?raw=true"/>](https://duo.nl/)
-
-**DevOps Engineer** \
-[**DUO**](https://duo.nl/) • Contract \
-Languages & Technologies: `Python`, `SaltStack`, `Ansible`, `RHEL`, `OpenShift` \
-<br/>
-<br/>
-
-
-
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-justintsugranes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justintsugranes/)
 
 if you like what i do, maybe consider buying me a coffee
