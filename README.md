@@ -45,7 +45,7 @@
 
 ### Languages
 
-<div>
+<div id="lang">
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidiity" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -54,25 +54,15 @@
 
 ### Technologies
 
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidiity" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<div id="tech">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" **alt="Google Cloud" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="Apple" **alt="Apple" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="NPM" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/polygon/polygon-original.svg" title="Polygon" **alt="Polygon" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" **alt="Visual Studio Code" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
-</div>
+
+<div>
 
 ---
 
@@ -82,7 +72,7 @@
 
 ---
 
-<h2>Medium Posts</h2>
+### Medium Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
@@ -91,8 +81,8 @@
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
 
-<h2>Latest Tweets</h2>
+### Latest Tweets
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
 
-
+### I love coffee
 <p>If you like what i do, maybe you would like to <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
