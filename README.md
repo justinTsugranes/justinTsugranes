@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/></a>
   <a href="https://twitter.com/justintsugranes">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
-  <a href="https://stackoverflow.com/users/18146313/justintsugranes" target="_blank">
-    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=18146313" /></a> 
+ <p> <a href="https://stackoverflow.com/users/18146313/justintsugranes" target="_blank">
+    <img alt="StackOverflow" src="https://stackoverflow-badge.vercel.app/?userID=18146313" /></a> </p>
  </div>
  
  <div id="viewcount" align="center">
