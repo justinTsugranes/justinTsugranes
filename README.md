@@ -1,5 +1,5 @@
   <div id="header" align="center">
-  <iframe src="https://giphy.com/embed/MFabj1E9mgUsqwVWHu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu">via GIPHY</a></p>
+  <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/MFabj1E9mgUsqwVWHu" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu">via GIPHY</a></p>
 </div>
   
   <div id="badges">
@@ -30,11 +30,6 @@
 I'm a Junior Smart Contract Developer that is learning to code for EVM compatible chains. I'm a former guitaris for the US Army, a professional Jazz guitarist and recording artist.
 
 I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips. 
-
-<div align="center">
-  <img src="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu" width="600" height="300"/>
-</div>
-
 
 
 
