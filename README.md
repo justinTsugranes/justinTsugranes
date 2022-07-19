@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="center"><h1>Justin Tsugranes</h1>
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
 </div>
   
@@ -16,14 +16,6 @@
     <img src="https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
     </a>
  </div>
- 
- ## Connect
-
- 
-[![Gmail Badge](https://img.shields.io/badge/-ing.justintsugranes@proton.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ing.justintsugranes@proton.me)](mailto:ing.justintsugranes@proton.me)
-[![Linkedin Badge](https://img.shields.io/badge/-minoveaz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/justintsugranes/)](https://www.linkedin.com/in/justintsugranes/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/justintsugranes)](https://github.com/justintsugranes)
-[![Twitter Badge](https://img.shields.io/badge/-@justintsugranes-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=justintsugranes "Follow on Twitter")
  
  <div id="viewcount" align="center">
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
@@ -52,38 +44,27 @@
 
 ### Languages
 
-<div id="lang">
+---
+  
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidiity" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-</div>
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
+---
 
 ### Technologies
 
-<div id="tech">
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="GoogleCloud" **alt="Google Cloud" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="NPM" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" **alt="Visual Studio Code" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
-<div>
-  
-  
-
-<hr>
-  
-### Languages
-
-## Technologies
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
 
+<div id="tech">
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="NPM" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudioCode" **alt="Visual Studio Code" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
+<div>
+  
 ---
 
 ### :fire: GitHub Stats 📊:
@@ -102,9 +83,13 @@ I also maintain a blog - you can find my articles on my Medium Page
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
+  
+---
 
 ### Latest Tweets
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
+  
+---
 
 ### I love coffee
 <p>If you like what i do, maybe you would like to
