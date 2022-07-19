@@ -72,7 +72,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 </div>
-
 ---
 
 <div align="center"
@@ -91,14 +90,12 @@
 # Medium Posts
 ### I also maintain a blog - you can find my articles on my Medium Page
 
-<div align="center">
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
 - [How To Be A Pro Guitarist](https://medium.com/itsguitar/how-to-be-a-pro-guitarist-d5dc2939c158?source=rss-7a7403f7f237------2)
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
-</div>
   
 </div>
 
