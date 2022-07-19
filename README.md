@@ -34,7 +34,7 @@
 
 ---
 
-### :man_technologist: About Me : 
+### About Me : 
 
 - I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.
 
@@ -46,7 +46,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity" **alt="Solidiity" width="40" height="40"/>
@@ -73,7 +73,7 @@
 
 ---
 
-### :writing_hand: Blog Posts :
+### Medium Posts :
 
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
