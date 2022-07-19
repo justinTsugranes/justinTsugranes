@@ -75,6 +75,8 @@
 
 ### Medium Posts
 
+I also maintain a blog - you can find my articles on my Medium Page
+
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
 - [How To Be A Pro Guitarist](https://medium.com/itsguitar/how-to-be-a-pro-guitarist-d5dc2939c158?source=rss-7a7403f7f237------2)
