@@ -4,8 +4,7 @@
   
 <div align="center">
   
-# Hi, I'm Justin.
-## Welcome to my GitHub!
+# Hi, I'm Justin. ## Welcome to my GitHub!
   
 </div>
   
@@ -71,9 +70,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 </div>
+
 ---
 
-<div align="center"   
+<div align="center">
 ## :fire: GitHub Stats:
      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
@@ -99,12 +99,16 @@
 ---
 
 <div align="center">
+  
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
+  
 </div>
 
 ---
 
 <div align="center">
+  
 ### If you like what i do, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+  
 </div>
