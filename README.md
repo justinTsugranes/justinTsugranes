@@ -44,6 +44,10 @@
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-justintsugranes-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/justintsugranes/)
 
+if you like what i do, maybe consider buying me a coffee
+
+<a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
 ---
 
 ### Languages and Tools :
