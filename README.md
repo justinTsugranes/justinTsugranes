@@ -2,12 +2,10 @@
   <img src="https://github.com/justinTsugranes/justinTsugranes/blob/main/Justin.tsugranes.big.sur.background..jpg" width="100%"/>
 </div>
   
-<h1>Justin Tsugranes</h1>
 <h1 align="center">
   Hi! I'm Justin.
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to my GitHub!
-</h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <h1>Welcome to my GitHub!</h1>
   
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/justintsugranes/">
