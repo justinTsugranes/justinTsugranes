@@ -25,15 +25,22 @@
 
 ---
 
+<div align="center">
+
 ### About Me : 
 
 - I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.
 - I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.
 - I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.
 
-- I'm looking 
+- I'm looking to work with teams on blockchain projects.
+  
+</div>
 
 ---
+<div align="center">
+<h2 align="center"> 🔭 Tools of Trade</h2>
+<p align="center">
 
 ### Languages
 
@@ -57,16 +64,24 @@
 
 ## Operating System & Tools
 
-[![macOS](https://img.shields.io/badge/macOS-Mojave-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
+[![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
-[![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)](https://git-scm.com/)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+## Rando Apps Apps I Like
+
+![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+</p>
+</div>
+---
+<div align="center">
 ### :fire: GitHub Stats 📊:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 ---
-
+<div align="center">
 ### Medium Posts
 
 I also maintain a blog - you can find my articles on my Medium Page
@@ -77,13 +92,14 @@ I also maintain a blog - you can find my articles on my Medium Page
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
-  
+</div>
 ---
-
+<div align="center">
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
-
+</div>
 ---
-
+<div align="center">
 ### I love coffee
 If you like what i do, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+</div>
