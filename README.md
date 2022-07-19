@@ -1,6 +1,5 @@
 <div id="header" align="center">
   <img src="https://github.com/justinTsugranes/justinTsugranes/blob/main/Justin.tsugranes.big.sur.background..jpg" width="100%"/>
-  <img src="https://media.giphy.com/media/3tL4lQZx0RNsbnIPKa/giphy.gif" width="100%"/>
 </div>
   
 <h1 align="center">
