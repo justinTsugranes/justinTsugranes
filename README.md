@@ -41,7 +41,7 @@
 
 - I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-justintsugranes-blue?style=flat&logo=Linkedin&logoColor=white) target="_blank"](https://www.linkedin.com/in/justintsugranes/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-justintsugranes-blue?style=flat&logo=Linkedin&logoColor=white)target="_blank"](https://www.linkedin.com/in/justintsugranes/)
 
 ---
 
