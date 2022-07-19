@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></a>
  </div>
  
+ [instagram]: https://.instagram.com/justintsugranes
+ 
  <div id="viewcount" align="center">
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
  <img src="https://img.shields.io/freecodecamp/points/jtsugranes" alt=""/>
@@ -26,10 +28,10 @@
 ### About Me : 
 
 - I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.
-
 - I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.
-
 - I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.
+
+- I'm looking 
 
 ---
 
