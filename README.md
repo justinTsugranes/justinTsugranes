@@ -1,3 +1,7 @@
+  <div id="header" align="center">
+  <iframe src="https://giphy.com/embed/MFabj1E9mgUsqwVWHu" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bitcoin-visuals-network-MFabj1E9mgUsqwVWHu">via GIPHY</a></p>
+</div>
+  
   <div id="badges">
   <a href="https://www.linkedin.com/in/justintsugranes/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +21,6 @@
  
 <h1>
   hi there, I'm Justin!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 ---
