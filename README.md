@@ -26,6 +26,7 @@
 ---
 
 <div align="center">
+ 
 ### About Me:
 
 <p> I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.</p>
@@ -37,6 +38,7 @@
 
 ---
 <div align="center">
+  
 ### Tools of Trade
 
 ### Languages
@@ -80,7 +82,6 @@
 
 ---
 
-<div align="center">
 <h2 align="center">Medium Posts</h2>
 <h3 align="center">I also maintain a blog - you can find my articles on my Medium Page</h3>
 
@@ -90,7 +91,6 @@
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
-</div>
 
 ---
 
