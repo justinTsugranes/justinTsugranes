@@ -4,10 +4,10 @@
   
 <div align="center">
  
-### Hi, I'm Justin.
+# Hi, I'm Justin.
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-##<h2 Welcome to my GitHub!
+## Welcome to my GitHub!
 </div>
   
 <div id="badges" align="center">
@@ -30,7 +30,7 @@
 
 <div align="center">
  
-### About Me:
+## About Me:
 
 <p> I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.</p>
 <p> I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.</p>
@@ -42,9 +42,9 @@
 ---
 <div align="center">
   
-### Tools of Trade
+# Tools of Trade
 
-## Languages
+### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -52,7 +52,7 @@
 
 ---
 
-## Technology Stack
+### Technology Stack
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
@@ -64,14 +64,14 @@
   
 ---
 
-## Operating System & Tools
+### Operating System & Tools
 
 [![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/mojave/)
 [![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-## Rando Apps Apps I Like
+### Rando Apps Apps I Like
 
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
 </p>
@@ -79,15 +79,20 @@
 
 ---
 
-### :fire: GitHub Stats:
+<div align="center"
+     
+## :fire: GitHub Stats:
+     
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>     
 ---
 
-<h2 align="center">Medium Posts</h2>
-<h3 align="center">I also maintain a blog - you can find my articles on my Medium Page</h3>
-<div align="center">
+</div align="center">
+
+#Medium Posts
+###I also maintain a blog - you can find my articles on my Medium Page
 
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
@@ -95,6 +100,7 @@
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
+
 </div>
 ---
 
@@ -108,4 +114,5 @@
   
 ### If you like what i do, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+  
 </div>
