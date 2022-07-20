@@ -35,7 +35,7 @@
 - When I have a handle on that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
 
 ### Hobbies and Interests
--  I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, chill in hot springs, and go on extended roadtrips.
+writing songs, creating graphics in Adobe, chill in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail running, road-trips, reading non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
 
 ### Fun Fact
 - I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out <a href="https://audius.co/themisfitdodo">My Audible Account</a>.
