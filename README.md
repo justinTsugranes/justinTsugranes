@@ -17,7 +17,8 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge" /></a>
   <a href="https://instagram.com/justintsugranes">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" /></a>
- </div>
+  <a href="mailto:justinjontsugranes@gmail.com?subject=Hello%20Justin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
+  </div>
  
  <div id="viewcount" align="center">
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
@@ -32,7 +33,7 @@
 - Currently learning to code Smart Contracts for all EVM compatible chains - Mostly Ethereum and Polygon and looking to work with teams on blockchain projects.
 - Focused on Solidity, Javascript, Hardhat, ethers.js, Chainlink, the Graph inside of Visual Studio Code
 - When I have a handle on that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
-- I blew my right hand up with dynamite when I was 9 (for real) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist.
+- I blew my right hand up with dynamite when I was 9 (for real) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out my <link href=""Audible account>.
 
 ### Hobbies and Interests
 -  I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, chill in hot springs, and go on extended roadtrips.
@@ -51,13 +52,9 @@
 
 ### Technology Stack
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Node JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
- <div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="NPM" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="Wordpress" **alt="Wordpress" width="40" height="40"/>
-  </div>
 
 ### Operating System & Tools
 
@@ -89,6 +86,7 @@
 
 ---
 <br>
+
 <div align="center">
 
 _Lastly, I need to thank all of the different GitHub profiles out there that were inspiration for my own Readme. Cheers!_
@@ -97,7 +95,5 @@ _Lastly, I need to thank all of the different GitHub profiles out there that wer
   
 ## If you like my work, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
-    
-<br>
   
 </div>
