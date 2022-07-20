@@ -33,12 +33,12 @@
 - Currently learning to code Smart Contracts for all EVM compatible chains - Mostly Ethereum and Polygon and looking to work with teams on blockchain projects.
 - Focused on Solidity, Javascript, Hardhat, ethers.js, Chainlink, the Graph inside of Visual Studio Code
 - When I have a handle on that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
-- I blew my right hand up with dynamite when I was 9 (for real) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out my <link href=""Audible account>.
+- I blew my right hand up with dynamite when I was 9 (for real) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out <a href="https://audius.co/themisfitdodo">My Audible Account</a>.
 
 ### Hobbies and Interests
 -  I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, chill in hot springs, and go on extended roadtrips.
-
-### Best of Luck and I'll see you in the metaverse!
+  
+### _Best of Luck and I'll see you in the metaverse!_
 
 ---
   
@@ -73,6 +73,8 @@
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
+
+Check out all of <a href="https://medium.com/@justintsugranes">My Medium Articles.</a> I talk about my journey to learn how to code, Web 3.0 (without all of the FUD and FOMO), music, guitar, and project deep-dives on current and past creative projects.
 
 ---
 
