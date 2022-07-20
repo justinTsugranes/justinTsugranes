@@ -40,6 +40,8 @@
 ### Fun Fact
 - I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out <a href="https://audius.co/themisfitdodo">My Audible Account</a>.
   
+### Here's My [[Full CV](https://justintsugranes.github.io/CV/)] if you'd like to learn more!
+  
 ### _Best of Luck and I'll see you in the metaverse!_
 
 ---
