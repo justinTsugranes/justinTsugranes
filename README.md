@@ -27,22 +27,23 @@
 
 ---
  
-## About Me:
+## About My Coding:
 
 - I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with smart contracts, DeFi, tokenized assets, blockchain use-cases, cloud computing, augmented reality, and machine learning.
 - Currently learning to code Smart Contracts for all EVM compatible chains - Mostly Ethereum and Polygon and looking to work with teams on blockchain projects.
 - Focused on Solidity, Javascript, Hardhat, ethers.js, Chainlink, the Graph inside of Visual Studio Code
 - When I have a handle on that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
-- I blew my right hand up with dynamite when I was 9 (for real) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out <a href="https://audius.co/themisfitdodo">My Audible Account</a>.
 
 ### Hobbies and Interests
 -  I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, chill in hot springs, and go on extended roadtrips.
+
+### Fun Fact
+- I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out <a href="https://audius.co/themisfitdodo">My Audible Account</a>.
   
 ### _Best of Luck and I'll see you in the metaverse!_
 
 ---
-  
-## My Tools of The Trade
+ 
 
 ### Languages
 
@@ -65,7 +66,11 @@
 
 ---
 
-## Articles and Deep-Dives Published on Medium
+## Medium
+
+Check out all of <a href="https://medium.com/@justintsugranes">My Medium Articles.</a> I talk about my journey to learn how to code, Web 3.0 (without all of the FUD and FOMO), music, guitar, and project deep-dives on current and past creative projects.
+
+### Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
@@ -74,7 +79,13 @@
 - [How To Run An Effective Band Rehearsal](https://medium.com/itsguitar/how-to-run-an-effective-band-rehearsal-16f9379fa8ba?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
 
-Check out all of <a href="https://medium.com/@justintsugranes">My Medium Articles.</a> I talk about my journey to learn how to code, Web 3.0 (without all of the FUD and FOMO), music, guitar, and project deep-dives on current and past creative projects.
+### All Publications
+
+- <a href="https://medium.com/justintsugranes">justinTsugranes</a>: Personal Blog and Freelance Projects
+- <a href="https://medium.com/thelightningrealm">theLightningRealm</a>: Everything Web 3.0 Without the FUD and FOMO
+- <a href="https://medium.com/thepathcreator">thePathCreator</a>: Hard-Learned Life Lessons For Your Journey To The Top
+- <a href="https://medium.com/itsguitar">it'sGuitar!</a>: Life Beyond Power Chords
+- <a href="https://medium.com/misfitdodo">misfitDodo</a>: Studio Life and the Creation of Original Music
 
 ---
 
