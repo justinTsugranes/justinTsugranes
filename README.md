@@ -28,10 +28,16 @@
  
 ## About Me:
 
-- I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.
-- I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.
-- I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.
-- I'm looking to work with teams on blockchain projects.
+- I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with smart contracts, DeFi, tokenized assets, blockchain use-cases, cloud computing, augmented reality, and machine learning.
+- Currently learning to code Smart Contracts for all EVM compatible chains - Mostly Ethereum and Polygon and looking to work with teams on blockchain projects.
+- Focused on Solidity, Hardhat, ethers.js, Chainlink, the Graph inside of Visual Studio Code
+- Also learning Javascript. When I have a handle on that, I'm going to dive into Typescript and then Rust so I can code on Solana.
+- I blew my right hand up with dynamite when I was 9 (for real) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist.
+
+### Hobbies and Interests
+-  I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, chill in hot springs, and go on extended roadtrips.
+
+### Best of Luck and I'll see you in the metaverse!
 
 ---
   
@@ -62,16 +68,6 @@
 
 ---
 
-<div align="center">
-  
-## :fire: GitHub Stats
-     
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>  
-
----
-
 ## Articles and Deep-Dives Published on Medium
 
 <!-- BLOG-POST-LIST:START -->
@@ -85,11 +81,17 @@
 
 <div align="center">
   
+## :fire: GitHub Stats :fire:
+     
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
+---
+
+<div align="center">
+  
 ## If you like what i do, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
-  
-  
-  
-# Best of Luck and I'll see you in the metaverse!
   
 </div>
