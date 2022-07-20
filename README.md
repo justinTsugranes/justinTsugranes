@@ -25,23 +25,17 @@
   </div>
 
 ---
-
-<div align="center">
  
 ## About Me:
 
-<p> I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.</p>
-<p> I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.</p>
-<p> I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.</p>
-<p> I'm looking to work with teams on blockchain projects.</p>
-  
-</div>
+- I'm a Junior Smart Contract Developer from California that is learning to code for EVM compatible chains.
+- I'm a former guitarist for the US Army, a professional Jazz guitarist and recording artist.
+- I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with cloud computing, machine learning, tokenized assets, I love to hike, backpack, write songs, create graphics in Adobe, read non-fiction, snorkel, sail, and go on extended roadtrips.
+- I'm looking to work with teams on blockchain projects.
 
 ---
-
-<div align="center">
   
-# Tools of The Trade
+# My Tools of The Trade
 
 ### Languages
 
@@ -66,8 +60,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-</div>
-
 ---
 
 <div align="center">
@@ -80,12 +72,8 @@
 
 ---
 
-</div align="center">
-
 # Medium Posts
 ### I also maintain a blog - you can find my articles on my Medium Page
-
-</div>
 
 <!-- BLOG-POST-LIST:START -->
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
@@ -95,18 +83,16 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-<div align="center">
   
 <p><a href="https://twitter.com/justintsugranes"><img src="https://github-readme-twitter.gazf.vercel.app/api?id=justintsugranes&amp;layout=wide" alt="github-readme-twitter"></a></p>
   
-</div>
-
 ---
 
 <div align="center">
   
 ### If you like what i do, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
+  
+Best of Luck and I'll see you in the metaverse!
   
 </div>
