@@ -27,26 +27,30 @@
 
 ---
  
-## About My Coding:
+## About Me:
 
-- I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely fascinated with smart contracts, DeFi, tokenized assets, blockchain use-cases, cloud computing, augmented reality, and machine learning.
+- I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely into smart contracts, DeFi, tokenized assets, blockchain use-cases, cloud computing, augmented reality, and machine learning.
 - Currently learning to code Smart Contracts for all EVM compatible chains - Mostly Ethereum and Polygon and looking to work with teams on blockchain projects.
-- Focused on Solidity, Javascript, Hardhat, ethers.js, Chainlink, the Graph inside of Visual Studio Code
-- When I have a handle on that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
+- Focused on Solidity, Javascript, Hardhat, ethers.js, Chainlink, and the Graph inside of Visual Studio Code. Also into Google Cloud and itegrating DApps with the cloud through Chainlink
+- When I have a better handle on on all of that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
 
 ### Hobbies and Interests
-writing songs, creating graphics in Adobe, chill in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail running, road-trips, reading non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
+
+- writing songs, trying to code augmented reality in Unity, creating graphics in Adobe, swing trading, chilling in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
 
 ### Fun Fact
+
 - I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out <a href="https://audius.co/themisfitdodo">My Audible Account</a>.
   
-**Here's My [Full CV](https://justintsugranes.github.io/CV/) if you'd like to learn more!**
+<br>
+<div align="center">
+  <h3>Here's <a href="https://justintsugranes.github.io/CV/">My Full CV</a> if you'd like to do a deeper dive!</h3>
   
 ### _Best of Luck and I'll see you in the metaverse!_
+</div>
 
 ---
  
-
 ### Languages
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)](https://www.javascript.com/)
@@ -100,15 +104,14 @@ Check out all of <a href="https://medium.com/@justintsugranes">My Medium Article
 </div>
 
 ---
-<br>
 
 <div align="center">
-
-_Lastly, I need to thank all of the different GitHub profiles out there that were inspiration for my own Readme. Cheers!_
-  
 <br>
   
 ## If you like my work, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
   
+<br><br>
+  
+_Lastly, I need to thank all of the different GitHub profiles out there that were inspiration for my own Readme. Cheers!_
 </div>
