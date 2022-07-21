@@ -40,9 +40,8 @@
 
 ### Fun Fact
 
-- I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out <a href="https://audius.co/themisfitdodo">My Audible Account</a>.
-  
-<br>
+- I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together) and then became a guitarist for the US Army, a professional Jazz guitarist and recording artist. Check out [My Audible Account](https://audius.co/themisfitdodo).<br>
+ 
 <div align="center">
   <h3>Here's <a href="https://justintsugranes.github.io/CV/">My Full CV</a> if you'd like to do a deeper dive!</h3>
   
@@ -74,7 +73,7 @@
 
 ## Medium
 
-Check out all of <a href="https://medium.com/@justintsugranes">My Medium Articles.</a> I talk about my journey to learn how to code, Web 3.0 (without all of the FUD and FOMO), music, guitar, and project deep-dives on current and past creative projects.
+Check out all of [Medium Articles](https://medium.com/@justintsugranes). I talk about my journey to learn how to code, Web 3.0 (without all of the FUD and FOMO), music, guitar, and project deep-dives on current and past creative projects.
 
 ### Recent Articles
 
@@ -87,16 +86,15 @@ Check out all of <a href="https://medium.com/@justintsugranes">My Medium Article
 
 ### All Publications
 
-- <a href="https://medium.com/justintsugranes">justinTsugranes</a>: Personal Blog and Freelance Projects
-- <a href="https://medium.com/thelightningrealm">theLightningRealm</a>: Everything Web 3.0 Without the FUD and FOMO
-- <a href="https://medium.com/thepathcreator">thePathCreator</a>: Hard-Learned Life Lessons For Your Journey To The Top
-- <a href="https://medium.com/itsguitar">it'sGuitar!</a>: Life Beyond Power Chords
-- <a href="https://medium.com/misfitdodo">misfitDodo</a>: Studio Life and the Creation of Original Music
+- [justinTsugranes](https://medium.com/justintsugranes): Personal Blog and Freelance Projects
+- [theLightningRealm](https://medium.com/thelightningrealm) Everything Web 3.0 Without the FUD and FOMO
+- [thePathCreator](https://medium.com/thepathcreator) Hard-Learned Life Lessons For Your Journey To The Top
+- [it'sGuitar!](https://medium.com/itsguitar) Life Beyond Power Chords
+- [misfitDodo](https://medium.com/misfitdodo) Studio Life and the Creation of Original Music
 
 ---
 
 <div align="center">
-  
 ## :fire: GitHub Stats :fire:
      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
