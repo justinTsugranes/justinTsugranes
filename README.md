@@ -95,15 +95,18 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 ---
 
 <div align="center">
+  
 ## :fire: GitHub Stats :fire:
      
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
 
 ---
 
 <div align="center">
+  
 <br>
   
 ## If you like my work, maybe you would like to
