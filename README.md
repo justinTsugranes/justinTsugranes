@@ -34,9 +34,9 @@
 - Focused on Solidity, Javascript, Hardhat, ethers.js, Chainlink, and the Graph inside of Visual Studio Code. Also into Google Cloud and itegrating DApps with the cloud through Chainlink
 - When I have a better handle on on all of that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
 
-### Hobbies and Interests
+### Completely Aside From Tech...
 
-- writing songs, trying to code augmented reality in Unity, creating graphics in Adobe, swing trading, chilling in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
+- writing songs, swing trading, chilling in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
 
 ### Fun Fact
 
