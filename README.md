@@ -87,10 +87,10 @@ Check out all of [Medium Articles](https://medium.com/@justintsugranes). I talk 
 ### All Publications
 
 - [justinTsugranes](https://medium.com/justintsugranes): Personal Blog and Freelance Projects
-- [theLightningRealm](https://medium.com/thelightningrealm) Everything Web 3.0 Without the FUD and FOMO
-- [thePathCreator](https://medium.com/thepathcreator) Hard-Learned Life Lessons For Your Journey To The Top
-- [it'sGuitar!](https://medium.com/itsguitar) Life Beyond Power Chords
-- [misfitDodo](https://medium.com/misfitdodo) Studio Life and the Creation of Original Music
+- [theLightningRealm](https://medium.com/thelightningrealm): Everything Web 3.0 Without the FUD and FOMO
+- [thePathCreator](https://medium.com/thepathcreator): Hard-Learned Life Lessons For Your Journey To The Top
+- [it'sGuitar!](https://medium.com/itsguitar): Life Beyond Power Chords
+- [misfitDodo](https://medium.com/misfitdodo): Studio Life and the Creation of Original Music
 
 ---
 
