@@ -73,7 +73,7 @@
 
 ## Medium
 
-Check out all of [Medium Articles](https://medium.com/@justintsugranes). I talk about my journey to learn how to code, Web 3.0 (without all of the FUD and FOMO), music, guitar, and project deep-dives on current and past creative projects.
+Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk about my journey to learn how to code, Web 3.0 (without all of the FUD and FOMO), music, guitar, and project deep-dives on current and past creative projects.
 
 ### Recent Articles
 
