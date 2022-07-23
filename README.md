@@ -29,10 +29,9 @@
  
 ## About Me:
 
-- I'm here to be part of the paradigm shift from Web2.0 to Web3.0 and beyond. I'm extremely into smart contracts, DeFi, tokenized assets, blockchain use-cases, cloud computing, augmented reality, and machine learning.
-- Currently learning to code Smart Contracts for all EVM compatible chains - Mostly Ethereum and Polygon and looking to work with teams on blockchain projects.
-- Focused on Solidity, Javascript, Hardhat, ethers.js, Chainlink, and the Graph inside of Visual Studio Code. Also into Google Cloud and itegrating DApps with the cloud through Chainlink
-- When I have a better handle on on all of that, I'm going to dive into Typescript and then Rust so I can code on Solana. Super interested in Motoko on the Internet Computer as well.
+- I'm currently focused on React Front End Development
+I'm fascinated with the major developments being made with smart contracts, DeFi, tokenized assets, blockchain use-cases, cloud computing, augmented reality, and machine learning.
+- As a "free time, side project," I'm also working with Solidity, Hardhat, ethers.js, and the Graph in order to itegrating DApps with the Google Cloud through Chainlink.
 
 ### Completely Aside From Tech...
 
