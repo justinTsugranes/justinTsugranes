@@ -30,8 +30,8 @@
 ## About Me:
 
 - I'm currently focused on React Front End Development
-I'm fascinated with the major developments being made with smart contracts, DeFi, tokenized assets, blockchain use-cases, cloud computing, augmented reality, and machine learning.
-- As a "free time, side project," I'm also working with Solidity, Hardhat, ethers.js, and the Graph in order to itegrating DApps with the Google Cloud through Chainlink.
+- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augemented reality.
+- In my free-time, I'm also learning Solidity, Hardhat, ethers.js, and the Graph in order to itegrate DApps with the Google Cloud through Chainlink.
 
 ### Completely Aside From Tech...
 
