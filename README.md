@@ -74,7 +74,6 @@
 
 [Figma]
 [Adobe Creative Cloud]
-[Notion]
 
 ---
 
