@@ -84,10 +84,10 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 ### Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Project: it’sGuitar!](https://medium.com/justintsugranes/project-itsguitar-3a8113f1db79?source=rss-7a7403f7f237------2)
-- [Project: Ridgeline Records](https://medium.com/justintsugranes/project-ridgeline-records-8e222b16fe55?source=rss-7a7403f7f237------2)
-- [Project: Ridgeline](https://medium.com/justintsugranes/project-ridgeline-90ea15fd0e82?source=rss-7a7403f7f237------2)
-- [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
+- [Project: Emma’s Lounge](https://medium.com/justintsugranes/project-emmas-lounge-fb4b15135102?source=rss-7a7403f7f237------2)
+- [Project: To The Wolves](https://justintsugranes.medium.com/project-to-the-wolves-1c7e3f7c74ae?source=rss-7a7403f7f237------2)
+- [Project: Where Giants Roam](https://medium.com/justintsugranes/project-where-giants-roam-d7ee0ace744c?source=rss-7a7403f7f237------2)
+- [Project: Calvin Get Down](https://medium.com/justintsugranes/project-calvin-get-down-2e1ffe61dae5?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### All Publications
