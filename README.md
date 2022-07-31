@@ -31,7 +31,7 @@
 
 - I'm currently focused on React Front End Development
 - I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augemented reality.
-- In my free-time, I'm also learning Solidity, Hardhat, ethers.js, and the Graph in order to itegrate DApps with the Google Cloud through Chainlink.
+- In my free-time, I'm also learning Solidity, Hardhat, ethers.js, and the Graph in order to integrate DApps with the Google Cloud through Chainlink.
 - Before I began coding, I was helping production companies produce commercials for the Super Bowl.
 
 ### Completely Aside From Tech...
