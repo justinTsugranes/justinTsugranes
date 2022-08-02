@@ -85,9 +85,9 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 
 <!-- BLOG-POST-LIST:START -->
 - [Personal Rules and Tools For Greatness](https://medium.com/thepathcreator/personal-rules-and-tools-for-greatness-d18e513f6887?source=rss-7a7403f7f237------2)
-- [Project: To The Wolves](https://justintsugranes.medium.com/project-to-the-wolves-1c7e3f7c74ae?source=rss-7a7403f7f237------2)
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
 - [How To Be A Pro Guitarist](https://medium.com/itsguitar/how-to-be-a-pro-guitarist-d5dc2939c158?source=rss-7a7403f7f237------2)
+- [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### All Publications
