@@ -76,6 +76,10 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/)
 [![Adobe Creative Cloud](https://img.shields.io/badge/-AdobeCC-DA1F26?style=for-the-badge&logo=adobe-creative-cloud)](https://www.adobe.com/creativecloud.html)
 
+### Blockchain
+[![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin)](https://bitcoin.org/)
+[![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)](https://ethereum.org/en/)
+
 ---
 
 ## Medium
