@@ -22,7 +22,7 @@
  
  <div id="viewcount" align="center">
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
- <img src="https://img.shields.io/freecodecamp/GitHub Points/justintsugranes" alt=""/>
+ <img src="https://img.shields.io/freecodecamp/points/justintsugranes" alt=""/>
   </div>
 
 ---
