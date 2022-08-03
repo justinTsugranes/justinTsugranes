@@ -79,6 +79,7 @@
 ### Blockchain
 [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin)](https://bitcoin.org/)
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)](https://ethereum.org/en/)
+[![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=for-the-badge&logo=ethereum)](https://chain.link/)
 
 ---
 
