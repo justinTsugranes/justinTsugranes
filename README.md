@@ -62,8 +62,8 @@
 
 ### Operating System & Tools
 
-[![macOS](https://img.shields.io/badge/macOS-Monterey-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
-[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
+[![macOS](https://img.shields.io/badge/iOS-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
+[![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![iTerm2](https://img.shields.io/badge/-iTerm2-black?style=for-the-badge&logo=iterm2)](https://iterm2.com/)
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
