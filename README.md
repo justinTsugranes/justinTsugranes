@@ -58,8 +58,10 @@
 
 ### Technology Stack
 
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
 [![Node JS](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://cloud.google.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
 
 ### Operating System & Tools
@@ -73,9 +75,9 @@
 ### UX/UI and Graphic Design
 
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/)
-[![Adobe Creative Cloud](https://img.shields.io/badge/-AdobeCC-DA1F26?style=for-the-badge&logo=adobe-creative-cloud)](https://www.adobe.com/creativecloud.html)
+[![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud)](https://www.adobe.com/creativecloud.html)
 
-### Blockchain
+### Blockchain Love
 [![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin)](https://bitcoin.org/)
 [![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)](https://ethereum.org/en/)
 [![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?style=for-the-badge&logo=ethereum)](https://chain.link/)
