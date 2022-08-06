@@ -29,18 +29,17 @@
  
 ## About Me:
 
-- I'm currently focused on React Front End Development
-- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augemented reality.
-- In my free-time, I'm also learning Solidity, Hardhat, ethers.js, and the Graph in order to integrate DApps with the Google Cloud through Chainlink.
-- Before I began coding, I was helping production companies produce commercials for the Super Bowl.
+- I'm currently focused on Next.js and React.js Front End Development.
+- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality.
 
 ### Completely Aside From Tech...
 
-- writing songs, swing trading, chilling in hot sprngs, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and learning Tai Chi.
+- writing songs, trading, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling....basically all ocean activies...
 
-### Fun Fact
+### Fun Facts
 
-- I blew my right hand up with dynamite when I was 9 (for real it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out [My Audible Account](https://audius.co/themisfitdodo).<br>
+- Before I began coding, I was helping production companies with commercials for the 2021 Super Bowl.
+- I blew my right hand up with dynamite when I was 9 (no joke... it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out [My Audius Account](https://audius.co/themisfitdodo).<br>
  
 <div align="center">
   <h3>Here's <a href="https://justintsugranes.github.io/CV/">My Full CV</a> if you'd like to do a deeper dive!</h3>
