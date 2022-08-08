@@ -25,12 +25,12 @@
  
 ## About Me:
 
-- I'm currently focused on Next.js and React.js Front End Development.
-- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality.
+- I'm currently focused on Next.js and React.js Front End Development and UX/UI Design with Figma.
+- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality, but it's a little bit too much to try to digest all at once...
 
 ### Completely Aside From Tech...
 
-- writing songs, trading, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling....basically all ocean activies...
+- writing songs, trading, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and diving into artistic rabbit holes.
 
 ### Fun Facts
 
