@@ -125,7 +125,4 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 ## If you like my work, maybe you would like to
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
   
-<br><br>
-  
-_Lastly, I need to thank all of the different GitHub profiles out there that were inspiration for my own Readme. Cheers!_
 </div>
