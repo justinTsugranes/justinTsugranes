@@ -36,9 +36,6 @@
 
 - Before I began coding, I was helping production companies with commercials for the Super Bowl.
 - I blew my right hand up with dynamite when I was 9 (no joke... it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out [My Audius Account](https://audius.co/themisfitdodo).<br>
- 
-<div align="center">
-  <h3>Here's <a href="https://justintsugranes.github.io/CV/">My Full CV</a> if you'd like to do a deeper dive!</h3>
   
 ### _Best of Luck and I'll see you in the metaverse!_
 </div>
