@@ -25,12 +25,12 @@
  
 ## About Me:
 
-- I'm currently focused on React.js Front End Development and UX/UI Design with Figma.
+- I'm currently focused on React.js Front-End Development and UX/UI Design
 - I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality, but it's a little bit too much to try to digest all at once...
 
 ### Completely Aside From Tech...
 
-- writing songs, trading, backgammon, live shows and events, photography, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, sailing, snorkeling, and diving into artistic rabbit holes.
+- writing songs, trading, backgammon, photography, live shows and events, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, snorkeling, and diving into artistic rabbit holes.
 
 ### Fun Facts
 
