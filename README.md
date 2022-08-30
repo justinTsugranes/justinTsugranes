@@ -93,14 +93,6 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 - [Stage Etiquette For Performing Guitarists](https://medium.com/itsguitar/stage-etiquette-for-performing-guitarists-f32309e18ef0?source=rss-7a7403f7f237------2)
 <!-- BLOG-POST-LIST:END -->
 
-### All Publications
-
-- [justinTsugranes](https://medium.com/justintsugranes): Personal Blog and Freelance Projects
-- [theLightningRealm](https://medium.com/thelightningrealm): Everything Web 3.0 Without the FUD and FOMO
-- [thePathCreator](https://medium.com/thepathcreator): Hard-Learned Life Lessons For Your Journey To The Top
-- [it'sGuitar!](https://medium.com/itsguitar): Life Beyond Power Chords
-- [misfitDodo](https://medium.com/misfitdodo): Studio Life and the Creation of Original Music
-
 ---
 
 <div align="center">
