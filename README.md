@@ -22,6 +22,14 @@
   </div>
 
 ---
+Github doesn't have a great way to organize personal repos. So, I created serveral organizations to hold speciic types of repos. Links below and to the left side pannel under "Organizations"
+
+- [Personal Projects](https://github.com/orgs/jt-personal-projects/repositories)
+- [Boilerplates and Templates](https://github.com/orgs/jt-boilerplate/repositories)
+- [Bootcamps and Courses](https://github.com/orgs/jt-bootcamps-and-courses/repositories)
+- [Tutorial Projects](https://github.com/orgs/jt-tutorials/repositories)
+
+---
  
 ## About Me:
 
@@ -65,8 +73,8 @@
 [![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)](https://eslint.org/)
-[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://jestjs.io/
-[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)](https://prettier.io/
+[![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://jestjs.io/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)](https://prettier.io/)
 
 ### UX/UI and Graphic Design
 
