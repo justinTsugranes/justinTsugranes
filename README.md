@@ -25,9 +25,8 @@
 Github doesn't have a great way to organize personal repos. So, I created serveral organizations to hold speciic types of repos. Links below and to the left side pannel under "Organizations"
 
 - [Projects](https://github.com/orgs/jt-personal-projects/repositories)
-- [Tutorial Projects](https://github.com/orgs/jt-tutorials/repositories)
+- [Tutorial Projects and Coursework](https://github.com/orgs/jt-tutorial-projects-and-coursework/repositories)
 - [Boilerplates and Templates](https://github.com/orgs/jt-boilerplate/repositories)
-- [Bootcamps and Courses](https://github.com/orgs/jt-bootcamps-and-courses/repositories)
 
 ---
  
