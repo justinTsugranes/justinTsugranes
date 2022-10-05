@@ -88,7 +88,6 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 ### Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Personal Rules and Tools For Greatness](https://medium.com/thepathcreator/personal-rules-and-tools-for-greatness-d18e513f6887?source=rss-7a7403f7f237------2)
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
 - [How To Be A Pro Guitarist](https://medium.com/itsguitar/how-to-be-a-pro-guitarist-d5dc2939c158?source=rss-7a7403f7f237------2)
