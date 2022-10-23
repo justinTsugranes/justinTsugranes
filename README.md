@@ -25,17 +25,17 @@
 
 ## About Me:
 
-- I'm currently focused on React.js Front-End Development and UX/UI Design
-- I'm fascinated with the major developments being made with cloud computing, machine learning, smart contracts, DeFi, tokenized assets, blockchain use-cases, and augmented reality, but it's a little bit too much to try to digest all at once...
+- I'm currently focused on React.js Front-End Development
+- I'm fascinated with the major developments being made with smart contracts, DeFi, tokenized assets, blockchain use-cases,
 
 ### Completely Aside From Tech...
 
-- writing songs, trading, backgammon, photography, live shows and events, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, snorkeling, and diving into artistic rabbit holes.
+- writing songs, swing trading, backgammon, photography, live shows and events, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, snorkeling, and diving into artistic rabbit holes.
 
 ### Fun Facts
 
 - Before I began coding, I was helping production companies with commercials for the Super Bowl.
-- I blew my right hand up with dynamite when I was 9 (no joke... it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out [My Audius Account](https://audius.co/themisfitdodo).<br>
+- I blew my right hand up with dynamite when I was 9 (no joke... it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out [My Spotify](https://open.spotify.com/artist/4vV18ClJAixgpNfKaJkEmR?si=4ilxbBCFSiKtrI8EqvoGLg).<br>
 
 ### _Best of Luck and I'll see you in the metaverse!_
 
