@@ -52,9 +52,9 @@
 ### Technology Stack
 
 [![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)](https://nextjs.org/)
-[![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)](https://reactjs.org/)
+[![React.js](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=black&style=for-the-badge)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.dev/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongo-db)](https://www.mongodb.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
 
 ### Operating System & Tools
@@ -62,15 +62,15 @@
 [![macOS](https://img.shields.io/badge/iOS-292e33?style=for-the-badge&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/monterey/)
 [![VS Code](https://img.shields.io/badge/VSCode-%23007ACC?style=for-the-badge&logo=Visual-studio-code)](https://code.visualstudio.com/)
 [![iTerm2](https://img.shields.io/badge/-iTerm2-black?style=for-the-badge&logo=iterm2)](https://iterm2.com/)
-[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)](https://git-scm.com/)
+[![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/)
 [![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint)](https://eslint.org/)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest)](https://jestjs.io/)
-[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier)](https://prettier.io/)
+[![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)](https://prettier.io/)
 
 ### UX/UI and Graphic Design
 
-[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)](https://www.figma.com/)
+[![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 [![Adobe Creative Cloud](https://img.shields.io/badge/-Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud)](https://www.adobe.com/creativecloud.html)
 
 ### Blockchain Love
@@ -88,6 +88,7 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 ### Recent Articles
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Personal Rules and Tools For Greatness](https://medium.com/thepathcreator/personal-rules-and-tools-for-greatness-d18e513f6887?source=rss-7a7403f7f237------2)
 - [How Fernando Sor Helped Elevate The Guitar’s Status](https://medium.com/itsguitar/how-fernando-sor-helped-elevate-the-guitars-status-548195669b5d?source=rss-7a7403f7f237------2)
 - [How To Be A Pro Guitarist](https://medium.com/itsguitar/how-to-be-a-pro-guitarist-d5dc2939c158?source=rss-7a7403f7f237------2)
