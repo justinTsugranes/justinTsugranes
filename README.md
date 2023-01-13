@@ -1,5 +1,7 @@
 <div id="header" align="center">
+<a href="https://www.justintsugranes.com" target="_blank" rel="noreferrer">
   <img src="banner.png" width="100%"/>
+</a>
 </div>
   
 <div align="center">
@@ -15,7 +17,6 @@
     <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" /></a>
   <a href="mailto:justinjontsugranes@gmail.com?subject=Hello%20Justin,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
   </div>
- 
  <div id="viewcount" align="center">
  <img src="https://komarev.com/ghpvc/?username=justintsugranes&style=flat-square&color=blue" alt=""/>
  <img src="https://img.shields.io/freecodecamp/points/justintsugranes" alt=""/>
@@ -112,6 +113,7 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 <br>
   
 ## If you like my work, maybe you would like to
+
 <a href="https://www.buymeacoffee.com/tsugranes" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>
-  
+
 </div>
