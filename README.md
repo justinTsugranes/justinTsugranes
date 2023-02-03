@@ -26,17 +26,28 @@
 
 ## About Me
 
-- I'm currently focused Front-End Development using React.js and Next.js, although I'm also working with backends more and more these days.
-- I'm one of those obsessive types that has a hard time thinking or doing anything else once I choose the direction I am going in.
+- 🔭 I’m currently working as a Developer @[Cable and Connections](https://cableandconnections.com) on the eCommerce team.
 
-### Completely Aside From Tech
+- 🌱 I’m currently learning **Storybook, Headless CMS, Typescript, tRPC, Accessibility, and Design Systems.**
 
-- writing songs, swing trading, backgammon, photography, live shows and events, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, snorkeling, and diving into artistic rabbit holes.
+- 👨‍💻 All of my projects are available at [https://justintsugranes.com](https://justintsugranes.com)
 
-### Fun Facts
+- 📝 I regularly write articles on [theLightningRealm](https://lightning-realm.vercel.app)
+
+- 💬 Ask me about **React, Next.js, TailwindCSS, Sanity.io, and JAMstack technologies**
+
+- 📫 How to reach me **justintsugranes@proton.me**
+
+**⚡ Fun facts:**
 
 - Before I began coding full time, I was helping production companies with commercials for the Super Bowl.
 - I blew my right hand up with dynamite when I was 9 (no joke... it took 120 stitches to put it back together). I went on to obtain a Master's Degree in Jazz Guitar and then became a guitarist for the US Army and a recording artist. Check out [My Spotify](https://open.spotify.com/artist/4vV18ClJAixgpNfKaJkEmR?si=4ilxbBCFSiKtrI8EqvoGLg).
+
+- 🥅 2023 Goals: Improve my knowledge of writing algorithms and learn how to surf!
+
+**Completely Aside From Tech**
+
+- writing songs, swing trading, backgammon, photography, live shows and events, hiking, camping, backpacking, trail-running, road trips, non-fiction books-audiobooks-podcasts-vlogs-blogs, snorkeling, and diving into artistic rabbit holes.
 
 ### _Best of Luck and I'll see you in the metaverse!_
 
@@ -102,6 +113,9 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 ## :fire: GitHub Stats :fire:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=justintsugranes&theme=github-dark-blue)](https://git.io/streak-stats)
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justintsugranes&show_icons=true&locale=en&theme=dark" alt="justintsugranes" />
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justintsugranes&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
