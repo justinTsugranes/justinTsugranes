@@ -120,6 +120,19 @@ Check out all of [Medium](https://medium.com/@justintsugranes) articles. I talk 
 
 </div>
 
+<details>
+  <summary>Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+1. ❗️ Opened issue [#13](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/13) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+2. ❗️ Opened issue [#12](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/12) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+3. ❗️ Opened issue [#11](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/11) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+4. ❗️ Opened issue [#10](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/10) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+5. ❗️ Opened issue [#9](https://github.com/Umayarz18/Taekwondo-Knowledge-App/issues/9) in [Umayarz18/Taekwondo-Knowledge-App](https://github.com/Umayarz18/Taekwondo-Knowledge-App)
+<!--END_SECTION:activity-->
+
+</details>
+
 ---
 
 <div align="center">
