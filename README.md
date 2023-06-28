@@ -34,7 +34,7 @@
 
 <!-- - 📝 I regularly write articles on [theLightningRealm](https://lightning-realm.vercel.app) -->
 
-- 💬 Ask me about **React, Next.js, TailwindCSS, Sanity.io, and JAMstack technologies**
+- 💬 Ask me about **React, Next.js, TailwindCSS, Sanity.io, and JAMstack tech**
 
 - 📫 How to reach me: **justinjontsugranes@gmail.com**
 
