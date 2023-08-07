@@ -26,9 +26,9 @@
 
 ## About Me
 
-- 🔭 I’m currently working as a Developer @[Cable and Connections](https://cableandconnections.com) on the eCommerce team.
+- 🔭 I’m currently working as a eCommerce Engineer @[Fender Musical Instruments Corporation](https://fender.com) on the eCommerce team.
 
-- 🌱 I’m currently working on **Shopify Dev, Headless CMS, and Design Systems.**
+- 🌱 I’m currently working on **Salesforce, Headless CMS, and my tan.**
 
 - 👨‍💻 All of my projects are available at [https://justintsugranes.com](https://justintsugranes.com)
 
